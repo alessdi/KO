@@ -1,1 +1,5 @@
-<?php return [];
+<?php
+
+return [
+    App\Providers\AppServiceProvider::class,
+];

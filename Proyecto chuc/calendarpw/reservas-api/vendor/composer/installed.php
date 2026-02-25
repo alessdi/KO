@@ -3,7 +3,7 @@
         'name' => 'alessdi/reservas-api',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5e9e49486b04d9977c15456442b2c678a6be5446',
+        'reference' => '6979d774143bb7f0cd610f520cd29c345a66e37c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'alessdi/reservas-api' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5e9e49486b04d9977c15456442b2c678a6be5446',
+            'reference' => '6979d774143bb7f0cd610f520cd29c345a66e37c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
