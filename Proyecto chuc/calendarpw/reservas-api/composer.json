@@ -1,0 +1,15 @@
+{
+    "name": "alessdi/reservas-api",
+    "require": {
+        "laravel/framework": "^11.0",
+        "inertiajs/inertia-laravel": "^2.0",
+        "laravel/sanctum": "^4.3",
+        "laravel/fortify": "^1.35",
+        "laravel/pail": "^1.2"
+    },
+    "require-dev": {
+        "laravel/sail": "^1.53",
+        "laravel/tinker": "^2.11",
+        "nunomaduro/collision": "^8.9"
+    }
+}
